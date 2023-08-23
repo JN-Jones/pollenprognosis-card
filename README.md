@@ -1,24 +1,16 @@
 # pollenprognos-card
 
-A Lovelace card to display the sensor data from the integration [Home Assistant Pollenprognos integration](https://github.com/JohNan/homeassistant-pollenprognos).
+A Lovelace card to display the sensor data from the integration [DWD Pollenflug](https://github.com/mampfes/hacs_dwd_pollenflug).
 
 ![Screenshot 2022-08-05 at 22 37 45](https://user-images.githubusercontent.com/2181965/183159066-2cef1a6e-e59b-4bb3-832b-7bff781b471c.png)
 
 ## Requirement
 
-- [Home Assistant Pollenprognos integration](https://github.com/JohNan/homeassistant-pollenprognos)
-
-### Install with HACS
-
-Add https://github.com/krissen/pollenprognos-card as a custom integration.
-See more info: https://hacs.xyz/docs/faq/custom_repositories
-
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/hacs/integration)  
-[![HACS Action](https://github.com/krissen/pollenprognos-card/actions/workflows/hacs_action.yml/badge.svg)](https://github.com/krissen/pollenprognos-card/actions/workflows/hacs_action.yml)
+- [DWD Pollenflug](https://github.com/mampfes/hacs_dwd_pollenflug)
 
 ## Credits
 
-Small improvements to [pollen-card](https://github.com/nidayand/lovelace-pollen-card) by @nidayand , who in turn rewrote @isabellaalstrom's [pollenprognos-card](https://github.com/isabellaalstrom/lovelace-pollenprognos-card).
+Based on the original [Pollenprognos card](https://github.com/krissen/pollenprognos-card)
 
 ## Note
 
